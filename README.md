@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SangharshSeth
-- 👀 I’m interested in computer secutiry
+- 👀 I’m interested in computer security
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ...
