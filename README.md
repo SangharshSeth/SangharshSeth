@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SangharshSeth
-- 👀 I’m interested in computer security
-- 🌱 I’m currently learning go
+- 👀 I’m interested in Computer security
+- 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me ...
 
