@@ -2,7 +2,6 @@
 - 👀 I’m interested in Computer security
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on python projects
-- 📫 twitter.com/0xs3th
 
 <!---
 SangharshSeth/SangharshSeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
