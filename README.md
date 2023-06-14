@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xs3th" target="blank"><img src="https://img.shields.io/twitter/follow/0xs3th?logo=twitter&style=for-the-badge" alt="0xs3th" /></a> </p>
 
-- 🔭 I’m currently working on [golang-redis](https://github.com/SangharshSeth/redis-golang)
+- 🔭 I’m currently working on [golang-redis](https://github.com/SangharshSeth/Redis-GO)
 
 - 🌱 I’m currently learning **Go, Python, Algorithms**
 
