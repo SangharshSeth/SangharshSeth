@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangharsh Seth</h1>
+
 <h3 align="center">A Computer Science Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/0xs3th" target="blank"><img src="https://img.shields.io/twitter/follow/0xs3th?logo=twitter&style=for-the-badge" alt="0xs3th" /></a> </p>
@@ -6,9 +7,7 @@
 - 🔭 I’m currently working on [golang-redis](https://github.com/SangharshSeth/Redis-GO)
 
 - 🌱 I’m currently learning **Go, Python, Algorithms**
-
-- 👨‍💻 All of my projects are available at [GitHub.com/sangharshseth](GitHub.com/sangharshseth)
-
+- 
 - 💬 Ask me about **Web Security, Distributed Systems**
 
 - 📫 How to reach me **sethsangharsh@outlook.com**
