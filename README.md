@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [golang-redis](https://github.com/SangharshSeth/Redis-GO)
 
-- 🌱 I’m currently learning **Go, Python, Algorithms**
-  
-- 💬 Ask me about **Web Security, Distributed Systems**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **sethsangharsh@outlook.com**
 
