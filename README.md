@@ -16,8 +16,13 @@
 
 - 📫 Reach me at: **sethsangharsh@outlook.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangharshseth&show_icons=true&cache_seconds=1000&locale=en&layout=compact" alt="sangharshseth" /></p>
+<br clear="left"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangharshseth&show_icons=true&locale=en" alt="sangharshseth" /></p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sangharshseth&show_icons=true&cache_seconds=1000&locale=en&layout=compact" alt="sangharshseth" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sangharshseth&show_icons=true&locale=en" alt="sangharshseth" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangharshseth&theme=default" alt="sangharshseth" /></p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangharshseth&theme=default" alt="sangharshseth" />
+</p>
